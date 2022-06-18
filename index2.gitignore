@@ -1,0 +1,43 @@
+<style>
+    #injected-text {
+        background-color: lightgreen;
+        margin-bottom: -25px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #box {
+        border-style: solid;
+        border-color: black;
+        border-width: 50px
+        text-align; center:
+    }
+    #goldbox {
+        background-color: gold;
+    ;
+        padding: 20px 40px 20px 40px;
+        margin:  20px 40px 20px 40px;
+    }
+    #redbox {
+        background-color: red;
+        padding: 20px 40px 20px 40px;
+        margin:  20px 40px 20px 40px;
+      
+    }
+    #greenbox {
+        background-color: green;
+        padding: 20px 40px 20px 40px;
+        margin:  20px 40px 20px 40px;
+        
+
+    }
+</style>
+<nav>
+    <div id = "injected-text">
+        <div id  = "box"></div>
+        <div id = "goldbox"><a href="#"<b>Attack on Titan</b></a></div>
+        <div id = "redbox"><b>World Trigger</b></div>
+        <div id = "greenbox"><b>Shaman King</b></div>
+        </div>
+</nav>
